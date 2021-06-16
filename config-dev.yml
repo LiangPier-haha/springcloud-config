@@ -1,4 +1,4 @@
 server:
   port: 1234
 config:
-  info: "test"
+  info: "test2"
